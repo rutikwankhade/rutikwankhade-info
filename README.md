@@ -23,3 +23,6 @@ I am Rutik Wankhade. I am a 👨‍💻 frontend developer, an avid learner who 
 - Email : rutikwankhade2@gmail.com
 - Twitter : [@WankhadeRutik](https://twitter.com/WankhadeRutik)
 - Portfolio : [rutikwankhade.dev](https://rutikwankhade.dev) 
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rutikwankhade&show_icons=true)
+
