@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Rutik Wankhade. I am a frontend developer, an avid learner who is passionate about web technologies and building cool projects. 👨‍💻 I love creating open-source projects and contributing to the community.
+I am Rutik Wankhade. I am a 👨‍💻 frontend developer, an avid learner who is passionate about web technologies and building cool projects. I love creating open-source projects and contributing to the community.
 - I’m currently working on a minimal productivity app for myself. 
+- I am documenting my learnings on my blog [rutikwankhade.hashnode.dev](https://rutikwankhade.hashnode.dev/)
 
 ### 📫 How to reach me:
+- Email : rutikwankhade2@gmail.com
 - Twitter : [@WankhadeRutik](https://twitter.com/WankhadeRutik)
-- Portfolio : [rutikwankhade.dev](https://rutikwankhade.dev)
-- Blog : [rutikwankhade.hashnode.dev](https://rutikwankhade.hashnode.dev/)
+- Portfolio : [rutikwankhade.dev](https://rutikwankhade.dev) 
