@@ -32,4 +32,4 @@ I am Rutik Wankhade. I am a 👨‍💻 frontend developer, an avid learner who 
 
 - Email : rutikwankhade2@gmail.com
 - Twitter : [@WankhadeRutik](https://twitter.com/WankhadeRutik)
-- Portfolio : [rutikw.now.sh](https://rutikw.now.sh/) 
+- Portfolio : [rutikwankhade.dev](https://rutikwankhade.dev) 
