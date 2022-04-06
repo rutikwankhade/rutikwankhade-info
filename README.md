@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 I am Rutik Wankhade. I am a 👨‍💻 frontend developer, I am passionate about building side projects. I love creating open-source projects and contributing to the community.
 
-- 🔭 I’m currently working on building [Tabwave](https://tabwave.vercel.app)
+- 🔭 I’m currently working on building [Tabwave](https://tabwave.vercel.app) , a mindful productivity chrome extension which has 1000+ installs on chrome web store.
 - 👨‍💻 All of my projects are available at [https://rutikwankhade.dev](https://rutikwankhade.dev)
 - 📝 I am documenting my learnings on my [blog](https://blog.rutikwankhade.dev).
 - 📫 How to reach me **rutikwankhade2@gmail.com**
