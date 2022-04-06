@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 I am Rutik Wankhade. I am a 👨‍💻 frontend developer, I am passionate about building side projects. I love creating open-source projects and contributing to the community.
 
-- 🔭 I’m currently working on building [Tabwave](https://tabwave.vercel.app) , a mindful productivity chrome extension which has 1000+ installs on chrome web store.
+- 🔭 I’m currently working on building [Tabwave](https://tabwave.vercel.app).
 - 👨‍💻 All of my projects are available at [https://rutikwankhade.dev](https://rutikwankhade.dev)
 - 📝 I am documenting my learnings on my [blog](https://blog.rutikwankhade.dev).
 - 📫 How to reach me **rutikwankhade2@gmail.com**
@@ -32,13 +32,11 @@ I am Rutik Wankhade. I am a 👨‍💻 frontend developer, I am passionate abou
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rutikwankhade&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=buefy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutikwankhade&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rutikwankhade&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ -->
 
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rutikwankhade&label=Profile%20views&color=0e75b6&style=flat" alt="rutikwankhade" /> </p>
-
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=rutikwankhade&label=Profile%20views&color=0e75b6&style=flat" alt="rutikwankhade" /> </p>
 
 
 
